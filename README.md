@@ -12,7 +12,7 @@ Une application web complète, moderne, bilingue (Français & Arabe) et sécuris
 - **Ville** : Bouarfa, Maroc
 - **Adresse** : Hay Al Wahda N°1, Bouarfa
 - **Téléphone direct** : `0626783160` (Format national : `06 26 78 31 60`)
-- **WhatsApp officiel** : `+212626783160` (Lien direct : [wa.me/212626783160](https://wa.me/212626783160))
+- **WhatsApp officiel** : `+212626783160` (Lien direct : [wa.me/065613145456))
 - **Charte Graphique** :
   - Bleu marine profond (`#072445`)
   - Blanc pur (`#FFFFFF`)
